@@ -1,3 +1,1 @@
-tomcat
-alpine
-nginx
+gitlab/gitlab-ce
