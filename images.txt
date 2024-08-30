@@ -1,4 +1,4 @@
 # gitlab/gitlab-ce
-yidadaa/chatgpt-next-web
+#yidadaa/chatgpt-next-web
 redis:latest
 ghcr.io/songquanpeng/one-api
