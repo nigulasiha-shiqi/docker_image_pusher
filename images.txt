@@ -2,3 +2,4 @@
 #yidadaa/chatgpt-next-web
 redis:latest
 ghcr.io/songquanpeng/one-api
+elasticsearch
