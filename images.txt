@@ -1,6 +1,3 @@
-# gitlab/gitlab-ce
-#yidadaa/chatgpt-next-web
-redis:latest
 ghcr.io/songquanpeng/one-api
 elasticsearch:7.17.24
 elasticsearch:8.15.1
