@@ -1,3 +1,2 @@
-ghcr.io/songquanpeng/one-api
 elasticsearch:7.17.24
 elasticsearch:8.15.1
