@@ -1,3 +1,4 @@
 elasticsearch:7.17.24
 elasticsearch:8.15.1
 justsong/one-api
+siutin/stable-diffusion-webui-docker
