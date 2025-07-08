@@ -4,3 +4,4 @@ justsong/one-api
 siutin/stable-diffusion-webui-docker:cuda-12.9.1-v1.10.1-2025-06-18
 siutin/stable-diffusion-webui-docker:latest-cuda
 dockurr/macos
+sickcodes/docker-osx
